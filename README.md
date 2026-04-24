@@ -1,5 +1,3 @@
----
-
 # What this project actually is
 
 This is essentially a **“Basic Organizational Policy Framework”** — a structured system that:
@@ -150,18 +148,4 @@ Policies are not static. This section includes:
 * Version control
 * Approval process
 
----
-
-# Simple summary
-
-Your project is basically:
-
-A **complete policy management system** that:
-
-* Defines rules for IT, Finance, and other teams
-* Includes cybersecurity protections
-* Provides templates for creating policies
-* Explains how and why policies must be followed
-
----
 
